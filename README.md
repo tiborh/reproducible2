@@ -1,2 +1,2 @@
-# reproducible2
-Assignment 2 for reproducible
+# Reproducible Research
+Assignment 2
